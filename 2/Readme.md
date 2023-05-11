@@ -1,0 +1,12 @@
+1.12:16:38.443824500: loading io.vertx
+2.12:16:38.956904700: loaded 529 classes
+3.12:16:41.973705: loading io.netty
+4.12:16:42.936838300: loaded 2117 classes
+5.12:16:45.939347200: loading org.springframework
+6.12:16:46.378408900: loaded 869 classes
+7.12:16:49.380761200: creating 5000000 objects
+8.12:16:49.755797200: created
+9.12:16:52.758890600: creating 5000000 objects
+10.12:16:53.051912100: created
+11.12:16:56.463772800: creating 5000000 objects
+12.12:16:56.863805600: created
